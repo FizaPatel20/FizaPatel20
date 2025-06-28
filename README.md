@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img align="center" alt="Coding" width="300" src="girl.png">
+</p>
 <h1 align="center">Hi 👋, I'm Fiza Patel</h1>
 
 ## 💡 About Me
